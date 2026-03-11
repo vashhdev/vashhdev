@@ -23,6 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vashhdev&icon=0&color=0)](https://visitcount.itsvg.in)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=700)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=555)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
