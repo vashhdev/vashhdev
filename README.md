@@ -24,5 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vashhdev&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs?si=51a007fdb47c4fd0)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
