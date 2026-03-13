@@ -21,13 +21,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashhdev&theme=github-compact)
-
 ---
 
 ## 🦉 Duolingo Progress
-<img src="[YOUR_DUOLINGO_AVATAR_URL](https://simg-ssl.duolingo.com/ssr-avatars/1619732146/SSR-xemQoysXj_/medium)" width="80">
+<img src="https://simg-ssl.duolingo.com/ssr-avatars/1619732146/SSR-xemQoysXj_/medium" width="80">
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
 
 ---
