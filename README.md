@@ -18,6 +18,14 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashhdev&theme=github-compact)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vashhdev/vashhdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vashhdev/vashhdev/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vashhdev/vashhdev/output/github-snake.svg" />
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
