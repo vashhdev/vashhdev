@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on — Comparing PPO and SAC algorithms for low-thrust spacecraft trajectory optimization as my CS 5180 capstone project<br>👯 I'm looking to collaborate on — AI/ML projects involving reinforcement learning, computer vision, or interactive 3D web experiences with Three.js<br>🤝 I'm looking for help with — MLOps best practices and deploying RL models to production environments<br>🌱 I'm currently learning — Reinforcement Learning and Linear Algebra as part of my MS in AI at Northeastern University<br>💬 Ask me about — Deep learning, computer vision, RL algorithms, Three.js development, or Blender 3D modeling<br>⚡ Fun fact — I built a suite of four RL-powered games including a 3D Maze agent and a Hill Climb Racing bot using NEAT and Genetic Algorithms
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Reinforcement+Learning+Engineer;Computer+Vision+Researcher;Three.js+3D+Developer)
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vashistha1802.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BcHRrWGm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vashistha1802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vashisthapandya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandyavashistha18@gmail.com) 
@@ -12,18 +14,23 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vashhdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vashhdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vashhdev&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashhdev&theme=github-compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vashhdev&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vashhdev&theme=github-compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vashhdev&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs?si=51a007fdb47c4fd0)
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🦉 Duolingo Progress
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=vashhdev&label=Profile%20views&color=0e75b6&style=flat)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs)
