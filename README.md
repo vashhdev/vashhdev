@@ -24,8 +24,13 @@
 ---
 
 ## 🦉 Duolingo Progress
-<img src="https://simg-ssl.duolingo.com/ssr-avatars/1619732146/SSR-xemQoysXj_/medium" width="80">
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
+## 🦉 Duolingo Progress
+
+<p align="center">
+  <img src="assets/duolingo-avatar.png" width="90">
+  <br>
+  <img src="https://duolingo-stats-card.vercel.app/api?username=VashisthaP6">
+</p>
 
 ---
 
