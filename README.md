@@ -24,7 +24,6 @@
 ---
 
 ## 🦉 Duolingo Progress
-## 🦉 Duolingo Progress
 
 <p align="center">
   <img src="assets/duolingo-avatar.png" width="90">
