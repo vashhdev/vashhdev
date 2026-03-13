@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on — Comparing PPO and SAC algorithms for low-thrust spacecraft trajectory optimization as my CS 5180 capstone project<br>👯 I'm looking to collaborate on — AI/ML projects involving reinforcement learning, computer vision, or interactive 3D web experiences with Three.js<br>🤝 I'm looking for help with — MLOps best practices and deploying RL models to production environments<br>🌱 I'm currently learning — Reinforcement Learning and Linear Algebra as part of my MS in AI at Northeastern University<br>💬 Ask me about — Deep learning, computer vision, RL algorithms, Three.js development, or Blender 3D modeling<br>⚡ Fun fact — I built a suite of four RL-powered games including a 3D Maze agent and a Hill Climb Racing bot using NEAT and Genetic Algorithms
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Reinforcement+Learning+Engineer;Computer+Vision+Researcher;Three.js+3D+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Python+Developer;Computer+Vision+Researcher;Creative+Developer;Three.js+Developer)
 
 
 ## 🌐 Socials:
