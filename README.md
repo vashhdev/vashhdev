@@ -1,17 +1,50 @@
-# 💫 About Me:
-🔭 I'm currently working on — Comparing PPO and SAC algorithms for low-thrust spacecraft trajectory optimization as my CS 5180 capstone project<br>👯 I'm looking to collaborate on — AI/ML projects involving reinforcement learning, computer vision, or interactive 3D web experiences with Three.js<br>🤝 I'm looking for help with — MLOps best practices and deploying RL models to production environments<br>🌱 I'm currently learning — Reinforcement Learning and Linear Algebra as part of my MS in AI at Northeastern University<br>💬 Ask me about — Deep learning, computer vision, RL algorithms, Three.js development, or Blender 3D modeling<br>⚡ Fun fact — I built a suite of four RL-powered games including a 3D Maze agent and a Hill Climb Racing bot using NEAT and Genetic Algorithms
+# Hey, I'm Vashistha 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Python+Developer;Computer+Vision+Researcher;Creative+Developer;Three.js+Developer)
 
+I'm doing my MS in Artificial Intelligence at Northeastern University, and most of my time these days goes into reinforcement learning.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vashistha1802.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BcHRrWGm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vashistha1802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vashisthapandya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandyavashistha18@gmail.com) 
+- 🔭 **Currently working on:** my CS 5180 capstone, comparing PPO and SAC for low-thrust spacecraft trajectory optimization
+- 👯 **Open to collaborating on:** anything involving RL, computer vision, or interactive 3D web experiences with Three.js
+- 🌱 **Learning right now:** reinforcement learning, plus brushing up on linear algebra
+- 🤝 **Would love pointers on:** MLOps and getting RL models running in production
+- 💬 **Ask me about:** deep learning, computer vision, RL algorithms, Three.js, or Blender
+- ⚡ **Fun fact:** I built a suite of four RL-powered games, including a 3D maze agent and a Hill Climb Racing bot driven by NEAT and genetic algorithms
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
+## 🌐 Find me here
+
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vashistha1802.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BcHRrWGm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vashistha1802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vashisthapandya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandyavashistha18@gmail.com)
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+
+**AI / ML & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+
+**Web & 3D**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+
+**Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+
+**Creative & Hardware**
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=vashhdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vashhdev&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=vashhdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vashhdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph
@@ -26,17 +59,20 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/vashhdev/vashhdev/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+## 🎧 Off the keyboard
+
+What I've been listening to lately:
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs)
+
+And my Duolingo streak, because it counts too:
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
+
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🦉 Duolingo Progress
-
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vashhdev&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs)
