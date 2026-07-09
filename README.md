@@ -66,7 +66,7 @@ What I've been listening to lately:
 
 And my Duolingo streak, because it counts too:
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=VashisthaP6&theme=dark)
+![Duolingo Stats](https://duolingo-card.vercel.app/api?username=VashisthaP6&theme=dark)
 
 ## ✍️ Random Dev Quote
 
