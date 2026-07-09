@@ -43,9 +43,8 @@ I'm doing my MS in Artificial Intelligence at Northeastern University, and most 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vashhdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=vashhdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vashhdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vashhdev&theme=github_dark) ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vashhdev&theme=github_dark)<br/>
+![Streak](https://streak-stats.demolab.com?user=vashhdev&theme=dark&hide_border=false)
 
 ## 📈 Contribution Graph
 
