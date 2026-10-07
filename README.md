@@ -62,7 +62,7 @@ I'm doing my MS in Artificial Intelligence at Northeastern University, and most 
 
 What I've been listening to lately:
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=27r1tdbrfrp89vga3eaz7l2bs&unique=true&width=600)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs)
+[![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=27r1tdbrfrp89vga3eaz7l2bs&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/27r1tdbrfrp89vga3eaz7l2bs)
 
 And my Duolingo streak, because it counts too:
 
